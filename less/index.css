@@ -350,12 +350,3 @@ img {
   background: #FFFFFF;
   color: #17A2B8;
 }
-@media (max-width: 500px) {
-  .home .content-pick .destination .btn {
-    width: 100%;
-  }
-}
-.home .content-pick .destination .btn:hover {
-  background: #FFFFFF;
-  color: #17A2B8;
-}
